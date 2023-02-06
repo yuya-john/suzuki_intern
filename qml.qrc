@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>Test.qml</file>
+        <file>sign/Sign.qml</file>
+        <file>weather/Weathericon.qml</file>
+        <file>music/Music.qml</file>
+        <file>footer/Footer.qml</file>
+        <file>header/Header.qml</file>
+        <file>tripmeter/TripMeter.qml</file>
+        <file>weather/Temperature.qml</file>
+        <file>tripmeter/Fuelgauge.qml</file>
+        <file>Colortest.qml</file>
+        <file>Test2.qml</file>
+        <file>Test3.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/image.qrc</file>
+        <file>meter/Meter.qml</file>
+        <file>meter/ValueSource.qml</file>
+    </qresource>
+</RCC>
